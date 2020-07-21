@@ -5,7 +5,7 @@
 Speech synthesis for STM32 series of microcontrollers, for Arduino IDE (stm32duino and Roger's core), ported from original source code: https://github.com/s-macke/SAM
 
 
-## Hardware:
+# Hardware:
 
 Compatible with any STM32 board that stm32duino core support, must have PA8 pin on TIM1 CH1
 
