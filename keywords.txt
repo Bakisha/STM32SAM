@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For STM32SAM
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+STM32SAM	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+say	KEYWORD2
+sing	KEYWORD2
+sam	KEYWORD2
+sayPhonetic	KEYWORD2
+singPhonetic	KEYWORD2
+setVoice	KEYWORD2
+setPitch	KEYWORD2
+setSpeed	KEYWORD2
+setMouth	KEYWORD2
+setThroat	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
