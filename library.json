@@ -1,0 +1,23 @@
+{
+    "name": "STM32SAM",
+    "description": "Speech synthesizer SAM ported to STM32",
+    "keywords": "STM32, STM32SAM, Speech Synthesis, SAM",
+    "authors": [
+        {
+            "name": "Bakisha",
+            "email": "bakisha@gmail.com",
+            "url": "https://github.com/bakisha/",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+         "url": "https://github.com/bakisha/STM32SAM"
+    },
+    "version": "1.0",
+    "homepage": "https://github.com/bakisha/STM32SAM",
+    "frameworks": "Arduino",
+    "examples": [
+        "examples/*/*.ino"
+    ]
+}
